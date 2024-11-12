@@ -249,7 +249,7 @@ body {
 
 /* Estilo para el párrafo con el texto pequeño */
 .small-text {
-  font-size: 10px; /* Tamaño de fuente más pequeño */
+  font-size: 8px; /* Tamaño de fuente más pequeño */
   position: absolute; /* Posiciona el texto de manera absoluta */
   top: 0; /* Ajusta el texto a la esquina superior */
   right: 0; /* Ajusta el texto a la esquina derecha */
